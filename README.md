@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠 Tech Stack
+## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,mongodb,git,github,linux)
 
 ---
 
@@ -51,3 +54,5 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect With Me
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
