@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saicharan2121&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saicharan2121&theme=radical)
 
 ---
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saicharan2121&theme=react-dark)
